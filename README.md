@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Passionate+about+Tech+%F0%9F%94%A5;Machine+Learning+%7C+Python+%7C+Data+Science;Always+learning+something+new!">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-repo-path/animated-duck.png" width="200" alt="Cute Pink and Green Duck">
-</p>
 
 👩‍💻 **B.Tech in Computer Science (AI & ML) | Tech Enthusiast | Lifelong Learner** 🚀
 
