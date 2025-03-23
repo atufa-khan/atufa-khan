@@ -18,15 +18,6 @@
 - ✨ **CGPA:** 9.4 📈
 
 ---
-
-### 🚀 Skills & Tools
-
-💻 **Programming Languages**: `Python` `C++` `Java`
-📊 **AI/ML**: `TensorFlow` `PyTorch` `Scikit-Learn`
-🛠️ **Developer Tools**: `Git` `GitHub` `VS Code`
-🎨 **Web Technologies**: `HTML` `CSS` `JavaScript`
-
----
 ### 🚀 Skills & Tools  
 
 #### 🖥️ **Programming Languages**  
