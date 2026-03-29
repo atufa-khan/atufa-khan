@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&pause=1000&color=FF6EB4&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+GitHub+%F0%9F%8C%B8;B.Tech+CS+(AI+%26+ML)+%E2%80%94+CGPA+9.4+%E2%9C%A8;Machine+Learning+%7C+Python+%7C+Data+Science;Turning+caffeine+%26+code+into+magic+%F0%9F%AA%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&pause=1000&color=FF6EB4&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+GitHub+%F0%9F%8C%B8;B.Tech+CS+(AI+%26+ML)+%E2%80%94+CGPA+9+%E2%9C%A8;Machine+Learning+%7C+Python+%7C+Data+Science;Turning+caffeine+%26+code+into+magic+%F0%9F%AA%84" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,7 @@ class AtufaKhan:
     def __init__(self):
         self.name       = "Atufa Khan"
         self.degree     = "B.Tech CS — AI & ML"
-        self.cgpa       = 9.4  # ✨ girlbossing
+        self.cgpa       = 9  # ✨ girlbossing
         self.passion    = ["Machine Learning", "Data Science", "AI Research"]
         self.aesthetic  = "pink + productive 🩷"
         self.current    = "Building cool things with ML"
