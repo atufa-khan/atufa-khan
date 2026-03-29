@@ -1,65 +1,173 @@
-### Hi there! I'm Atufa Khan 🌸💚
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Atufa%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Dream%20Builder%20%7C%20Pink%20Coded&descAlignY=58&descSize=18" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff66b2&height=200&section=header&text=Welcome!&fontSize=50&fontColor=ffffff" />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Passionate+about+Tech+%F0%9F%94%A5;Machine+Learning+%7C+Python+%7C+Data+Science;Always+learning+something+new!">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&pause=1000&color=FF6EB4&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+GitHub+%F0%9F%8C%B8;B.Tech+CS+(AI+%26+ML)+%E2%80%94+CGPA+9.4+%E2%9C%A8;Machine+Learning+%7C+Python+%7C+Data+Science;Turning+caffeine+%26+code+into+magic+%F0%9F%AA%84" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AtufaKhan&color=ff69b4&style=for-the-badge&label=Profile+Views)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atufa-khan-b79b6b2ab/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atufa-khan)
+
+</div>
+
+---
+
+<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif" />
+
+### 🌸 About Me
+
+```python
+class AtufaKhan:
+    def __init__(self):
+        self.name       = "Atufa Khan"
+        self.degree     = "B.Tech CS — AI & ML"
+        self.cgpa       = 9.4  # ✨ girlbossing
+        self.passion    = ["Machine Learning", "Data Science", "AI Research"]
+        self.aesthetic  = "pink + productive 🩷"
+        self.current    = "Building cool things with ML"
+        self.fun_fact   = "I debug with vibe checks 💅"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing 🌸")
+```
+
+<br clear="right"/>
+
+---
+
+### 💅 Tech Stack
+
+#### 🩷 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-FF85B3?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
+#### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-ffb6c1?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-FF85B3?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-FF69B4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FFB6C1?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-FF85B3?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-👩‍💻 **B.Tech in Computer Science (AI & ML) | Tech Enthusiast | Lifelong Learner** 🚀
+#### 🛠️ Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-ffb6c1?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-FF85B3?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-FFB6C1?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+#### 🎀 Web
+<p>
+  <img src="https://img.shields.io/badge/HTML-FF85B3?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-FF69B4?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
 
 ---
 
-### 🌟 About Me
-- 🎓 Passionate about **Artificial Intelligence & Machine Learning**
-- 💡 Love exploring **new innovations in technology**
-- 🔥 Always eager to **improve my skills** & build exciting projects
-- ✨ **CGPA:** 9.4 📈
+### 🌺 Featured Projects
 
----
-### 🚀 Skills & Tools  
-
-#### 🖥️ **Programming Languages**  
-🌟 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=blue)  
-🌟 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-🌟 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-
-#### 🤖 **AI/ML Frameworks**  
-⚡ ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-⚡ ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-⚡ ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
-
-#### 🛠️ **Developer Tools**  
-🚀 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-🚀 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-🚀 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-
-#### 🎨 **Web Technologies**  
-🎨 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-🎨 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
-🎨 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
----
-
-### 📌 Projects & Contributions
-- 🌟 **AI Chatbot** 🤖
-- 📈 **ML Model for Stock Prediction** 💹
-- 🔍 **Sentiment Analysis on Tweets** 🐦
-
-💡 *Check out my repositories for more cool projects!* 🔥
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Chatbot</h3>
+      <p align="center">An intelligent conversational agent built with NLP techniques and deep learning. Handles multi-turn dialogue and context retention.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-FF85B3?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-FF69B4?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Stock Price Predictor</h3>
+      <p align="center">ML model leveraging LSTM and time-series analysis to forecast stock trends with high accuracy.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FFB6C1?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/LSTM-FF85B3?style=flat-square" />
+        <img src="https://img.shields.io/badge/Time%20Series-FF69B4?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐦 Sentiment Analyser</h3>
+      <p align="center">Analysing Twitter/X data to detect public sentiment using transformers and NLP pipelines.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NLP-FFB6C1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Transformers-FF85B3?style=flat-square" />
+        <img src="https://img.shields.io/badge/scikit--learn-FF69B4?style=flat-square&logo=scikitlearn&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌸 More coming soon...</h3>
+      <p align="center">Always building, always learning. Check my repos for the latest experiments and projects! ✨</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stay%20tuned-FFB6C1?style=flat-square" />
+        <img src="https://img.shields.io/badge/In%20Progress-FF85B3?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Atufa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtufaKhan&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtufaKhan&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=AtufaKhan&show_icons=true&theme=radical&title_color=ff6eb4&icon_color=ff6eb4&border_color=ff6eb4&bg_color=1a0010&text_color=ffb6c1" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtufaKhan&layout=compact&theme=radical&title_color=ff6eb4&border_color=ff6eb4&bg_color=1a0010&text_color=ffb6c1" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AtufaKhan&theme=radical&background=1a0010&ring=ff6eb4&fire=ff6eb4&currStreakLabel=ffb6c1&border=ff6eb4&stroke=ff6eb4&sideLabels=ffb6c1&dates=ff85b3&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
 
 ---
 
-### 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atufa-khan-b79b6b2ab/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/atufa-khan)
+### 🎀 Contribution Snake
 
-✨ *Always excited to collaborate and learn together!* ✨
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AtufaKhan/AtufaKhan/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
+
+---
+
+### 🌸 Let's Connect!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/atufa-khan-b79b6b2ab/">
+  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/atufa-khan">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20like%20a%20girl%20%F0%9F%8C%B8&author=Atufa%20Khan" />
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" />
+
+<div align="center">
+  <i>Made with 🩷 and way too much chai</i>
+</div>
