@@ -74,54 +74,6 @@ class AtufaKhan:
 
 ---
 
-### 🌺 Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Chatbot</h3>
-      <p align="center">An intelligent conversational agent built with NLP techniques and deep learning. Handles multi-turn dialogue and context retention.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-FF85B3?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deep%20Learning-FF69B4?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 Stock Price Predictor</h3>
-      <p align="center">ML model leveraging LSTM and time-series analysis to forecast stock trends with high accuracy.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-FFB6C1?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/LSTM-FF85B3?style=flat-square" />
-        <img src="https://img.shields.io/badge/Time%20Series-FF69B4?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🐦 Sentiment Analyser</h3>
-      <p align="center">Analysing Twitter/X data to detect public sentiment using transformers and NLP pipelines.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/NLP-FFB6C1?style=flat-square" />
-        <img src="https://img.shields.io/badge/Transformers-FF85B3?style=flat-square" />
-        <img src="https://img.shields.io/badge/scikit--learn-FF69B4?style=flat-square&logo=scikitlearn&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌸 More coming soon...</h3>
-      <p align="center">Always building, always learning. Check my repos for the latest experiments and projects! ✨</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Stay%20tuned-FFB6C1?style=flat-square" />
-        <img src="https://img.shields.io/badge/In%20Progress-FF85B3?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
