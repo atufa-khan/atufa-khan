@@ -90,14 +90,6 @@ class AtufaKhan:
 
 ---
 
-### 🎀 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AtufaKhan/AtufaKhan/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
-
----
-
 ### 🌸 Let's Connect!
 
 <div align="center">
