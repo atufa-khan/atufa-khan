@@ -39,38 +39,7 @@ class AtufaKhan:
 
 ---
 
-### 💅 Tech Stack
-
-#### 🩷 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-FF85B3?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-#### 🤖 AI / ML
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-ffb6c1?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-FF85B3?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-FF69B4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-FFB6C1?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-FF85B3?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-#### 🛠️ Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-ffb6c1?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-FF85B3?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-FFB6C1?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-#### 🎀 Web
-<p>
-  <img src="https://img.shields.io/badge/HTML-FF85B3?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-FF69B4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white" />
-</p>
+<img width="1440" height="5660" alt="image" src="https://github.com/user-attachments/assets/d1a40d5b-8bfd-44ce-8292-4b73870da915" />
 
 ---
 
