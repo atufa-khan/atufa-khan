@@ -113,7 +113,7 @@ class AtufaKhan:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
-  <i>Made with 🩷 and way too much chai</i>
+  
 </div>
 
 
