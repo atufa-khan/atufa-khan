@@ -147,6 +147,6 @@ class AtufaKhan:
 
 <br/><br/>
 
-<img src="./assets/anime-night-sky.svg" alt="Anime inspired moonlit night sky with clouds, stars, power lines, and fireflies" />
+<img width="100%" src="./assets/shooting-star-night.svg" alt="Anime inspired shooting star night sky footer" />
 
 </div>
