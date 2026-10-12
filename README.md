@@ -41,51 +41,34 @@ class AtufaKhan:
 
 ---
 
-### Tech Stack
+### 🧠 Languages & Tools
 
-#### Core Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-D4AF37?style=for-the-badge&logo=python&logoColor=050505" />
-  <img src="https://img.shields.io/badge/Dart-D4AF37?style=for-the-badge&logo=dart&logoColor=050505" />
-  <img src="https://img.shields.io/badge/SQL-D4AF37?style=for-the-badge&logo=postgresql&logoColor=050505" />
-  <img src="https://img.shields.io/badge/TypeScript-D4AF37?style=for-the-badge&logo=typescript&logoColor=050505" />
-  <img src="https://img.shields.io/badge/HTML5-D4AF37?style=for-the-badge&logo=html5&logoColor=050505" />
-  <img src="https://img.shields.io/badge/CSS3-D4AF37?style=for-the-badge&logo=css3&logoColor=050505" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
 </p>
 
-#### AI, ML & Data
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-D4AF37?style=for-the-badge&logo=scikitlearn&logoColor=050505" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-D4AF37?style=for-the-badge&logo=scikitlearn&logoColor=050505" />
-  <img src="https://img.shields.io/badge/Pandas-D4AF37?style=for-the-badge&logo=pandas&logoColor=050505" />
-  <img src="https://img.shields.io/badge/NumPy-D4AF37?style=for-the-badge&logo=numpy&logoColor=050505" />
-  <img src="https://img.shields.io/badge/Matplotlib-D4AF37?style=for-the-badge&logo=plotly&logoColor=050505" />
-  <img src="https://img.shields.io/badge/Jupyter-D4AF37?style=for-the-badge&logo=jupyter&logoColor=050505" />
-</p>
-
-#### Project Focus
-<p>
-  <img src="https://img.shields.io/badge/RAG%20Chatbots-D4AF37?style=for-the-badge&logo=openai&logoColor=050505" />
-  <img src="https://img.shields.io/badge/NLP-D4AF37?style=for-the-badge&logo=googlegemini&logoColor=050505" />
-  <img src="https://img.shields.io/badge/Sentiment%20Analysis-D4AF37?style=for-the-badge&logo=semanticweb&logoColor=050505" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-D4AF37?style=for-the-badge&logo=opencv&logoColor=050505" />
-  <img src="https://img.shields.io/badge/Predictive%20Analytics-D4AF37?style=for-the-badge&logo=databricks&logoColor=050505" />
-</p>
-
-#### Product & App Engineering
-<p>
-  <img src="https://img.shields.io/badge/Flutter-D4AF37?style=for-the-badge&logo=flutter&logoColor=050505" />
-  <img src="https://img.shields.io/badge/LiveKit-D4AF37?style=for-the-badge&logo=webrtc&logoColor=050505" />
-  <img src="https://img.shields.io/badge/Mixpanel-D4AF37?style=for-the-badge&logo=mixpanel&logoColor=050505" />
-  <img src="https://img.shields.io/badge/Product%20Analytics-D4AF37?style=for-the-badge&logo=googleanalytics&logoColor=050505" />
-</p>
-
-#### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-D4AF37?style=for-the-badge&logo=git&logoColor=050505" />
-  <img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=050505" />
-  <img src="https://img.shields.io/badge/VS%20Code-D4AF37?style=for-the-badge&logo=visualstudiocode&logoColor=050505" />
-  <img src="https://img.shields.io/badge/Notebook%20Workflows-D4AF37?style=for-the-badge&logo=jupyter&logoColor=050505" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" />
+  <img height="44" src="https://cdn.simpleicons.org/openai/D4AF37" alt="OpenAI" />
+  <img height="44" src="https://cdn.simpleicons.org/livekit/8CC7FF" alt="LiveKit" />
+  <img height="44" src="https://cdn.simpleicons.org/mixpanel/D4AF37" alt="Mixpanel" />
 </p>
 
 ---
