@@ -147,6 +147,6 @@ class AtufaKhan:
 
 <br/><br/>
 
-<img src="./assets/new-york-cats.svg" alt="New York inspired skyline with black cats running across rooftops" />
+<img src="./assets/new-york-fireflies.svg" alt="New York inspired skyline with glowing fireflies above the rooftops" />
 
 </div>
