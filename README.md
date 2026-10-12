@@ -12,7 +12,7 @@
 
 </div>
 
----
+<img width="100%" src="./assets/star-divider.svg" alt="Starry section divider" />
 
 ### About Me
 
@@ -39,7 +39,7 @@ class AtufaKhan:
 
 <br clear="right"/>
 
----
+<img width="100%" src="./assets/star-divider.svg" alt="Starry section divider" />
 
 ### Tech Stack
 
@@ -88,7 +88,7 @@ class AtufaKhan:
   <img src="https://img.shields.io/badge/Notebook%20Workflows-D4AF37?style=for-the-badge&logo=jupyter&logoColor=050505" />
 </p>
 
----
+<img width="100%" src="./assets/star-divider.svg" alt="Starry section divider" />
 
 ### Featured Direction
 
@@ -115,7 +115,7 @@ class AtufaKhan:
   </tr>
 </table>
 
----
+<img width="100%" src="./assets/star-divider.svg" alt="Starry section divider" />
 
 ### GitHub Stats
 
@@ -131,7 +131,7 @@ class AtufaKhan:
 
 </div>
 
----
+<img width="100%" src="./assets/star-divider.svg" alt="Starry section divider" />
 
 ### Connect
 
