@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<img width="420" src="./assets/animated-moon-fox.svg" alt="Animated moon fox" />
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=FFD6E8&center=true&vCenter=true&width=720&lines=AI+%2B+ML+with+sharp+dark-mode+energy;Python%2C+notebooks%2C+RAG%2C+NLP%2C+and+data+stories;Flutter%2C+Dart%2C+LiveKit%2C+and+product+analytics;Building+models%2C+cleaning+chaos%2C+shipping+confidence" alt="Typing SVG" />
 
 <br/><br/>
