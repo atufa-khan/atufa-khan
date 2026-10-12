@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">New York night skyline</title>
+  <desc id="desc">A sleek New York inspired night skyline with a bridge, moonlight, crisp buildings, and fine white window lights.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#050714"/>
+      <stop offset="50%" stop-color="#08182c"/>
+      <stop offset="100%" stop-color="#02030a"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" x2="1">
+      <stop offset="0%" stop-color="#07101f"/>
+      <stop offset="50%" stop-color="#0d1f38"/>
+      <stop offset="100%" stop-color="#04070d"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8f6f21"/>
+      <stop offset="50%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#fff0a6"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <symbol id="small-window" viewBox="0 0 5 7">
+      <rect width="5" height="7" rx=".8" fill="#f8fbff" opacity=".9"/>
+    </symbol>
+    <symbol id="blue-window" viewBox="0 0 5 7">
+      <rect width="5" height="7" rx=".8" fill="#8cc7ff" opacity=".76"/>
+    </symbol>
+    <symbol id="gold-window" viewBox="0 0 5 7">
+      <rect width="5" height="7" rx=".8" fill="#d4af37" opacity=".8"/>
+    </symbol>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#sky)"/>
+
+  <g opacity=".75" fill="#dbeafe">
+    <circle cx="54" cy="35" r="1.3"/><circle cx="116" cy="55" r="1"/><circle cx="205" cy="29" r="1.1"/>
+    <circle cx="332" cy="47" r="1.2"/><circle cx="449" cy="34" r="1"/><circle cx="620" cy="50" r="1.2"/>
+    <circle cx="745" cy="29" r="1"/><circle cx="884" cy="48" r="1.1"/><circle cx="1118" cy="38" r="1.2"/>
+  </g>
+
+  <circle cx="1018" cy="45" r="25" fill="#dbeafe" opacity=".92" filter="url(#soft-glow)"/>
+  <circle cx="1030" cy="37" r="25" fill="#08182c" opacity=".9"/>
+
+  <g stroke-linecap="round" fill="none">
+    <path d="M-40 88C167 107 338 108 532 96c246-15 437-27 748-5" stroke="#05060b" stroke-width="16" opacity=".98"/>
+    <path d="M-40 88C167 107 338 108 532 96c246-15 437-27 748-5" stroke="#182235" stroke-width="5" opacity=".96"/>
+    <path d="M-24 78C176 99 342 99 536 88c238-14 430-23 760-3" stroke="#dbeafe" stroke-width="2" opacity=".82"/>
+    <path d="M-24 97C176 116 343 116 536 104c238-14 430-20 760-1" stroke="#d4af37" stroke-width="1.5" opacity=".58"/>
+  </g>
+
+  <g stroke="#dbeafe" stroke-width="2" opacity=".62" fill="none">
+    <path d="M232 90V226M280 91V226M992 80V226M1040 82V226"/>
+    <path d="M232 90l24-58 24 59M992 80l24-63 24 65"/>
+    <path d="M247 70h18M1008 58h17"/>
+  </g>
+  <g stroke="#30405d" stroke-width="1.8" opacity=".62" fill="none">
+    <path d="M240 103l-82 123M272 103l86 123M1000 94l-84 132M1032 95l88 131"/>
+    <path d="M219 114l-70 112M293 114l74 112M979 108l-72 118M1053 109l78 117"/>
+  </g>
+  <g fill="#f8fbff" opacity=".82" filter="url(#soft-glow)">
+    <circle cx="37" cy="80" r="1.7"/><circle cx="91" cy="85" r="1.5"/><circle cx="145" cy="90" r="1.5"/>
+    <circle cx="199" cy="94" r="1.6"/><circle cx="253" cy="97" r="1.5"/><circle cx="307" cy="99" r="1.5"/>
+    <circle cx="361" cy="99" r="1.5"/><circle cx="415" cy="98" r="1.5"/><circle cx="469" cy="96" r="1.6"/>
+    <circle cx="523" cy="90" r="1.5"/><circle cx="589" cy="86" r="1.6"/><circle cx="655" cy="82" r="1.5"/>
+    <circle cx="721" cy="78" r="1.5"/><circle cx="787" cy="75" r="1.5"/><circle cx="853" cy="73" r="1.6"/>
+    <circle cx="919" cy="72" r="1.5"/><circle cx="985" cy="73" r="1.6"/><circle cx="1051" cy="76" r="1.5"/>
+    <circle cx="1117" cy="80" r="1.5"/><circle cx="1183" cy="84" r="1.6"/>
+  </g>
+
+  <g fill="#05070e">
+    <rect x="31" y="128" width="86" height="132"/>
+    <rect x="117" y="105" width="112" height="155"/>
+    <rect x="229" y="142" width="58" height="118"/>
+    <rect x="287" y="92" width="104" height="168"/>
+    <rect x="391" y="119" width="92" height="141"/>
+    <rect x="483" y="80" width="83" height="180"/>
+    <rect x="566" y="133" width="108" height="127"/>
+    <rect x="674" y="102" width="86" height="158"/>
+    <rect x="760" y="125" width="94" height="135"/>
+    <rect x="854" y="74" width="118" height="186"/>
+    <rect x="972" y="112" width="82" height="148"/>
+    <rect x="1054" y="92" width="110" height="168"/>
+  </g>
+  <g fill="#111827">
+    <polygon points="287,92 339,48 391,92"/>
+    <polygon points="483,80 525,43 566,80"/>
+    <polygon points="854,74 913,38 972,74"/>
+    <rect x="884" y="52" width="60" height="22"/>
+    <rect x="1092" y="60" width="35" height="32"/>
+  </g>
+  <g stroke="url(#gold)" stroke-width="2.4" opacity=".78" stroke-linecap="round">
+    <path d="M31 128h86M117 105h112M287 92h104M483 80h83M674 102h86M854 74h118M1054 92h110"/>
+  </g>
+
+  <g opacity=".96">
+    <use href="#small-window" x="55" y="146"/><use href="#small-window" x="75" y="146"/><use href="#blue-window" x="95" y="166"/><use href="#small-window" x="55" y="188"/><use href="#small-window" x="75" y="212"/>
+    <use href="#small-window" x="140" y="124"/><use href="#blue-window" x="160" y="124"/><use href="#small-window" x="180" y="124"/><use href="#small-window" x="200" y="148"/><use href="#small-window" x="140" y="173"/><use href="#blue-window" x="180" y="198"/><use href="#small-window" x="200" y="222"/>
+    <use href="#small-window" x="247" y="160"/><use href="#blue-window" x="267" y="185"/><use href="#small-window" x="247" y="215"/>
+    <use href="#small-window" x="311" y="112"/><use href="#blue-window" x="331" y="112"/><use href="#small-window" x="351" y="112"/><use href="#small-window" x="371" y="140"/><use href="#blue-window" x="311" y="168"/><use href="#small-window" x="351" y="194"/><use href="#small-window" x="371" y="222"/>
+    <use href="#small-window" x="416" y="138"/><use href="#blue-window" x="436" y="138"/><use href="#small-window" x="456" y="164"/><use href="#small-window" x="416" y="190"/><use href="#small-window" x="456" y="218"/>
+    <use href="#small-window" x="506" y="99"/><use href="#blue-window" x="526" y="99"/><use href="#small-window" x="546" y="128"/><use href="#small-window" x="506" y="158"/><use href="#blue-window" x="526" y="188"/><use href="#small-window" x="546" y="218"/>
+    <use href="#small-window" x="594" y="152"/><use href="#blue-window" x="614" y="152"/><use href="#small-window" x="634" y="177"/><use href="#small-window" x="654" y="204"/>
+    <use href="#small-window" x="701" y="121"/><use href="#blue-window" x="721" y="121"/><use href="#small-window" x="741" y="148"/><use href="#small-window" x="701" y="178"/><use href="#blue-window" x="741" y="210"/>
+    <use href="#small-window" x="786" y="144"/><use href="#blue-window" x="806" y="144"/><use href="#small-window" x="826" y="171"/><use href="#small-window" x="786" y="205"/>
+    <use href="#small-window" x="883" y="94"/><use href="#blue-window" x="903" y="94"/><use href="#small-window" x="923" y="94"/><use href="#small-window" x="943" y="122"/><use href="#blue-window" x="883" y="153"/><use href="#small-window" x="923" y="181"/><use href="#small-window" x="943" y="216"/>
+    <use href="#small-window" x="998" y="131"/><use href="#blue-window" x="1018" y="131"/><use href="#small-window" x="1038" y="160"/><use href="#small-window" x="998" y="198"/>
+    <use href="#small-window" x="1082" y="112"/><use href="#blue-window" x="1102" y="112"/><use href="#small-window" x="1122" y="141"/><use href="#small-window" x="1142" y="169"/><use href="#blue-window" x="1082" y="202"/><use href="#gold-window" x="1122" y="224"/>
+  </g>
+
+  <path d="M0 227c124 9 240 9 364 5 170-6 295-2 445 10 148 12 267 8 391-1v19H0z" fill="url(#water)" opacity=".98"/>
+  <path d="M0 243c130 4 270 4 408 0 183-5 315 2 472 9 126 6 228 2 320-4" fill="none" stroke="#8cc7ff" stroke-width="1.2" opacity=".42"/>
+  <path d="M0 254h1200" stroke="#d4af37" stroke-width="2" opacity=".78"/>
+</svg>

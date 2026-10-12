@@ -147,6 +147,6 @@ class AtufaKhan:
 
 <br/><br/>
 
-<img src="./assets/new-york-fireflies.svg" alt="New York inspired skyline with glowing fireflies above the rooftops" />
+<img src="./assets/new-york-skyline.svg" alt="Sleek New York inspired night skyline with bridge lights and white windows" />
 
 </div>
