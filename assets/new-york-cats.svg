@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">New York rooftop cats</title>
+  <desc id="desc">A dark New York inspired skyline with gold windows and black cats running across the rooftops.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="56%" stop-color="#0f1117"/>
+      <stop offset="100%" stop-color="#1c1510"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8f6f21"/>
+      <stop offset="50%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#fff0a6"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <symbol id="window" viewBox="0 0 10 18">
+      <rect width="10" height="18" rx="1.5" fill="#d4af37" opacity=".86"/>
+    </symbol>
+    <symbol id="running-cat" viewBox="0 0 92 42">
+      <path d="M18 27c6-14 28-17 45-9l10-9 1 15c7 4 12 9 14 15l-12 1c-5-7-12-10-21-10l-5 10-11-1 5-9-17 1-7 9H9l8-10-13-7 5-8z" fill="#020202"/>
+      <path d="M24 14l-6-10-2 14zM34 11l3-11 5 12z" fill="#020202"/>
+      <circle cx="25" cy="18" r="1.6" fill="#d4af37"/>
+      <path d="M73 11c10-8 18-6 19 1-5-2-10-1-17 5z" fill="#020202"/>
+    </symbol>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#sky)"/>
+  <circle cx="1010" cy="46" r="24" fill="#f4d58d" opacity=".92" filter="url(#glow)"/>
+  <path d="M0 180c145-34 291-33 441-13 230 30 420-15 759-5v98H0z" fill="#090a0e" opacity=".7"/>
+
+  <g fill="#0b0c10">
+    <rect x="38" y="118" width="88" height="142"/>
+    <rect x="126" y="92" width="96" height="168"/>
+    <rect x="222" y="132" width="72" height="128"/>
+    <rect x="294" y="77" width="118" height="183"/>
+    <rect x="412" y="111" width="90" height="149"/>
+    <rect x="502" y="64" width="78" height="196"/>
+    <rect x="580" y="124" width="112" height="136"/>
+    <rect x="692" y="86" width="88" height="174"/>
+    <rect x="780" y="115" width="96" height="145"/>
+    <rect x="876" y="58" width="116" height="202"/>
+    <rect x="992" y="102" width="78" height="158"/>
+    <rect x="1070" y="74" width="92" height="186"/>
+  </g>
+
+  <g fill="#15171f">
+    <polygon points="294,77 353,26 412,77"/>
+    <polygon points="502,64 541,22 580,64"/>
+    <polygon points="876,58 934,16 992,58"/>
+    <rect x="900" y="29" width="68" height="29"/>
+    <rect x="1096" y="38" width="40" height="36"/>
+  </g>
+
+  <g opacity=".92">
+    <use href="#window" x="61" y="140"/><use href="#window" x="92" y="140"/><use href="#window" x="61" y="174"/><use href="#window" x="92" y="207"/>
+    <use href="#window" x="152" y="118"/><use href="#window" x="183" y="118"/><use href="#window" x="152" y="154"/><use href="#window" x="183" y="190"/>
+    <use href="#window" x="321" y="103"/><use href="#window" x="352" y="103"/><use href="#window" x="383" y="103"/><use href="#window" x="321" y="146"/><use href="#window" x="383" y="190"/>
+    <use href="#window" x="438" y="140"/><use href="#window" x="469" y="174"/>
+    <use href="#window" x="527" y="91"/><use href="#window" x="527" y="126"/><use href="#window" x="552" y="160"/><use href="#window" x="527" y="202"/>
+    <use href="#window" x="614" y="149"/><use href="#window" x="650" y="183"/>
+    <use href="#window" x="720" y="112"/><use href="#window" x="751" y="148"/><use href="#window" x="720" y="190"/>
+    <use href="#window" x="806" y="140"/><use href="#window" x="838" y="176"/>
+    <use href="#window" x="905" y="88"/><use href="#window" x="936" y="88"/><use href="#window" x="967" y="126"/><use href="#window" x="905" y="168"/><use href="#window" x="936" y="210"/>
+    <use href="#window" x="1018" y="130"/><use href="#window" x="1044" y="168"/>
+    <use href="#window" x="1098" y="105"/><use href="#window" x="1128" y="142"/><use href="#window" x="1098" y="184"/>
+  </g>
+
+  <g stroke="url(#gold)" stroke-width="3" stroke-linecap="round" opacity=".72">
+    <path d="M39 118h87M126 92h96M294 77h118M502 64h78M692 86h88M876 58h116M1070 74h92"/>
+  </g>
+
+  <g>
+    <use href="#running-cat" x="152" y="53" width="88" height="42"/>
+    <use href="#running-cat" x="530" y="23" width="82" height="38" transform="scale(-1 1) translate(-1142 0)"/>
+    <use href="#running-cat" x="918" y="17" width="90" height="42"/>
+  </g>
+
+  <path d="M0 254h1200" stroke="#d4af37" stroke-width="2" opacity=".75"/>
+</svg>

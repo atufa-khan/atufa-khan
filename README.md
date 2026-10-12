@@ -10,10 +10,6 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=050505)](https://github.com/atufa-khan)
 
-<br/><br/>
-
-🐈‍⬛ &nbsp; 🐈‍⬛
-
 </div>
 
 ---
@@ -36,7 +32,6 @@ class AtufaKhan:
         ]
         self.current_mode = "sharp, dark, and model-training ready"
         self.company_work = "Crink App - Flutter, LiveKit, analytics"
-        self.signal = "🐈‍⬛ 🐈‍⬛"
 
     def build(self):
         return "clean data, sharp models, confident insights"
@@ -152,8 +147,6 @@ class AtufaKhan:
 
 <br/><br/>
 
-🐈‍⬛ &nbsp; 🐈‍⬛
+<img src="./assets/new-york-cats.svg" alt="New York inspired skyline with black cats running across rooftops" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111111,75:b08d57,100:ffd6e8&height=120&section=footer&animation=fadeIn" />
