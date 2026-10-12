@@ -147,6 +147,4 @@ class AtufaKhan:
 
 <br/><br/>
 
-<img width="100%" src="./assets/shooting-star-night.svg" alt="Anime inspired shooting star night sky footer" />
-
 </div>
