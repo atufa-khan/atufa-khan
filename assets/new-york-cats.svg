@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
   <title id="title">New York rooftop cats</title>
-  <desc id="desc">A dark New York inspired skyline with gold windows and black cats running across the rooftops.</desc>
+  <desc id="desc">A New York inspired night skyline with a bridge, white windows, cool blue lights, and black cats running across the rooftops.</desc>
   <defs>
     <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#050505"/>
-      <stop offset="56%" stop-color="#0f1117"/>
-      <stop offset="100%" stop-color="#1c1510"/>
+      <stop offset="0%" stop-color="#050716"/>
+      <stop offset="48%" stop-color="#071427"/>
+      <stop offset="100%" stop-color="#020308"/>
     </linearGradient>
     <linearGradient id="gold" x1="0" x2="1">
       <stop offset="0%" stop-color="#8f6f21"/>
@@ -20,7 +20,13 @@
       </feMerge>
     </filter>
     <symbol id="window" viewBox="0 0 10 18">
-      <rect width="10" height="18" rx="1.5" fill="#d4af37" opacity=".86"/>
+      <rect width="10" height="18" rx="1.5" fill="#f8fbff" opacity=".9"/>
+    </symbol>
+    <symbol id="blue-window" viewBox="0 0 10 18">
+      <rect width="10" height="18" rx="1.5" fill="#8cc7ff" opacity=".78"/>
+    </symbol>
+    <symbol id="gold-window" viewBox="0 0 10 18">
+      <rect width="10" height="18" rx="1.5" fill="#d4af37" opacity=".72"/>
     </symbol>
     <symbol id="running-cat" viewBox="0 0 92 42">
       <path d="M18 27c6-14 28-17 45-9l10-9 1 15c7 4 12 9 14 15l-12 1c-5-7-12-10-21-10l-5 10-11-1 5-9-17 1-7 9H9l8-10-13-7 5-8z" fill="#020202"/>
@@ -31,10 +37,45 @@
   </defs>
 
   <rect width="1200" height="260" fill="url(#sky)"/>
-  <circle cx="1010" cy="46" r="24" fill="#f4d58d" opacity=".92" filter="url(#glow)"/>
-  <path d="M0 180c145-34 291-33 441-13 230 30 420-15 759-5v98H0z" fill="#090a0e" opacity=".7"/>
+  <circle cx="1010" cy="46" r="24" fill="#dbeafe" opacity=".86" filter="url(#glow)"/>
+  <path d="M0 180c145-34 291-33 441-13 230 30 420-15 759-5v98H0z" fill="#03050b" opacity=".7"/>
 
-  <g fill="#0b0c10">
+  <g opacity=".8" fill="#e7f1ff">
+    <circle cx="48" cy="34" r="1.6"/><circle cx="91" cy="59" r="1.2"/><circle cx="164" cy="28" r="1.4"/>
+    <circle cx="247" cy="52" r="1.1"/><circle cx="337" cy="31" r="1.3"/><circle cx="438" cy="57" r="1.1"/>
+    <circle cx="632" cy="27" r="1.5"/><circle cx="772" cy="49" r="1.2"/><circle cx="1119" cy="39" r="1.4"/>
+  </g>
+
+  <g stroke="#0a0b11" stroke-width="14" stroke-linecap="round" opacity=".96">
+    <path d="M-30 74C194 96 361 96 560 84c245-14 416-20 690-3"/>
+  </g>
+  <g stroke="#111827" stroke-width="5" stroke-linecap="round" opacity=".95">
+    <path d="M-30 74C194 96 361 96 560 84c245-14 416-20 690-3"/>
+  </g>
+  <g stroke="#dbeafe" stroke-width="2" stroke-linecap="round" opacity=".85">
+    <path d="M-20 65C199 89 365 89 562 78c239-14 416-18 678-2"/>
+  </g>
+  <g stroke="#dbeafe" stroke-width="2" opacity=".62">
+    <path d="M232 86V222M279 88V222M998 79V222M1046 80V222"/>
+    <path d="M232 86l24-55 23 57M998 79l24-60 24 61"/>
+    <path d="M248 67h17M1013 58h18"/>
+  </g>
+  <g stroke="#334155" stroke-width="2" opacity=".54">
+    <path d="M239 98l-82 124M271 99l86 123M1007 91l-82 131M1038 92l87 130"/>
+    <path d="M219 109l-74 113M291 109l77 113M987 103l-73 119M1057 103l78 119"/>
+  </g>
+  <g fill="#f8fbff" opacity=".9" filter="url(#glow)">
+    <circle cx="34" cy="67" r="2"/><circle cx="82" cy="72" r="1.8"/><circle cx="130" cy="77" r="1.9"/>
+    <circle cx="178" cy="81" r="1.8"/><circle cx="226" cy="84" r="2"/><circle cx="274" cy="86" r="1.8"/>
+    <circle cx="322" cy="88" r="1.9"/><circle cx="370" cy="88" r="1.8"/><circle cx="418" cy="87" r="2"/>
+    <circle cx="466" cy="85" r="1.8"/><circle cx="514" cy="82" r="1.9"/><circle cx="562" cy="78" r="1.8"/>
+    <circle cx="616" cy="76" r="1.8"/><circle cx="670" cy="74" r="1.9"/><circle cx="724" cy="72" r="1.8"/>
+    <circle cx="778" cy="70" r="1.9"/><circle cx="832" cy="69" r="1.8"/><circle cx="886" cy="69" r="2"/>
+    <circle cx="940" cy="70" r="1.8"/><circle cx="994" cy="72" r="1.9"/><circle cx="1048" cy="74" r="1.8"/>
+    <circle cx="1102" cy="76" r="1.9"/><circle cx="1156" cy="78" r="1.8"/>
+  </g>
+
+  <g fill="#070910">
     <rect x="38" y="118" width="88" height="142"/>
     <rect x="126" y="92" width="96" height="168"/>
     <rect x="222" y="132" width="72" height="128"/>
@@ -49,7 +90,7 @@
     <rect x="1070" y="74" width="92" height="186"/>
   </g>
 
-  <g fill="#15171f">
+  <g fill="#101827">
     <polygon points="294,77 353,26 412,77"/>
     <polygon points="502,64 541,22 580,64"/>
     <polygon points="876,58 934,16 992,58"/>
@@ -57,18 +98,20 @@
     <rect x="1096" y="38" width="40" height="36"/>
   </g>
 
-  <g opacity=".92">
-    <use href="#window" x="61" y="140"/><use href="#window" x="92" y="140"/><use href="#window" x="61" y="174"/><use href="#window" x="92" y="207"/>
-    <use href="#window" x="152" y="118"/><use href="#window" x="183" y="118"/><use href="#window" x="152" y="154"/><use href="#window" x="183" y="190"/>
-    <use href="#window" x="321" y="103"/><use href="#window" x="352" y="103"/><use href="#window" x="383" y="103"/><use href="#window" x="321" y="146"/><use href="#window" x="383" y="190"/>
-    <use href="#window" x="438" y="140"/><use href="#window" x="469" y="174"/>
-    <use href="#window" x="527" y="91"/><use href="#window" x="527" y="126"/><use href="#window" x="552" y="160"/><use href="#window" x="527" y="202"/>
-    <use href="#window" x="614" y="149"/><use href="#window" x="650" y="183"/>
-    <use href="#window" x="720" y="112"/><use href="#window" x="751" y="148"/><use href="#window" x="720" y="190"/>
-    <use href="#window" x="806" y="140"/><use href="#window" x="838" y="176"/>
-    <use href="#window" x="905" y="88"/><use href="#window" x="936" y="88"/><use href="#window" x="967" y="126"/><use href="#window" x="905" y="168"/><use href="#window" x="936" y="210"/>
-    <use href="#window" x="1018" y="130"/><use href="#window" x="1044" y="168"/>
-    <use href="#window" x="1098" y="105"/><use href="#window" x="1128" y="142"/><use href="#window" x="1098" y="184"/>
+  <g opacity=".96">
+    <use href="#window" x="61" y="140"/><use href="#blue-window" x="77" y="140"/><use href="#window" x="92" y="140"/><use href="#window" x="61" y="174"/><use href="#blue-window" x="77" y="207"/><use href="#window" x="92" y="207"/>
+    <use href="#window" x="152" y="118"/><use href="#blue-window" x="168" y="118"/><use href="#window" x="183" y="118"/><use href="#window" x="152" y="154"/><use href="#window" x="183" y="154"/><use href="#blue-window" x="168" y="190"/><use href="#window" x="183" y="190"/>
+    <use href="#window" x="238" y="153"/><use href="#blue-window" x="263" y="179"/><use href="#window" x="238" y="209"/>
+    <use href="#window" x="321" y="103"/><use href="#blue-window" x="337" y="103"/><use href="#window" x="352" y="103"/><use href="#window" x="383" y="103"/><use href="#blue-window" x="321" y="146"/><use href="#window" x="352" y="146"/><use href="#window" x="383" y="190"/><use href="#window" x="321" y="215"/>
+    <use href="#window" x="438" y="140"/><use href="#blue-window" x="454" y="140"/><use href="#window" x="469" y="174"/><use href="#window" x="438" y="210"/>
+    <use href="#window" x="527" y="91"/><use href="#blue-window" x="552" y="91"/><use href="#window" x="527" y="126"/><use href="#window" x="552" y="160"/><use href="#blue-window" x="527" y="202"/><use href="#window" x="552" y="220"/>
+    <use href="#window" x="614" y="149"/><use href="#blue-window" x="632" y="149"/><use href="#window" x="650" y="183"/><use href="#window" x="614" y="216"/>
+    <use href="#window" x="720" y="112"/><use href="#blue-window" x="736" y="112"/><use href="#window" x="751" y="148"/><use href="#window" x="720" y="190"/><use href="#blue-window" x="751" y="211"/>
+    <use href="#window" x="806" y="140"/><use href="#blue-window" x="822" y="140"/><use href="#window" x="838" y="176"/><use href="#window" x="806" y="211"/>
+    <use href="#window" x="905" y="88"/><use href="#blue-window" x="921" y="88"/><use href="#window" x="936" y="88"/><use href="#window" x="967" y="126"/><use href="#blue-window" x="905" y="168"/><use href="#window" x="936" y="168"/><use href="#window" x="967" y="210"/>
+    <use href="#window" x="1018" y="130"/><use href="#blue-window" x="1031" y="130"/><use href="#window" x="1044" y="168"/><use href="#window" x="1018" y="207"/>
+    <use href="#window" x="1098" y="105"/><use href="#blue-window" x="1113" y="105"/><use href="#window" x="1128" y="142"/><use href="#window" x="1098" y="184"/><use href="#blue-window" x="1128" y="215"/>
+    <use href="#gold-window" x="352" y="220"/><use href="#gold-window" x="936" y="210"/><use href="#gold-window" x="1098" y="222"/>
   </g>
 
   <g stroke="url(#gold)" stroke-width="3" stroke-linecap="round" opacity=".72">
@@ -81,5 +124,6 @@
     <use href="#running-cat" x="918" y="17" width="90" height="42"/>
   </g>
 
+  <path d="M0 234c140 10 249 7 389 4 161-4 281-1 411 9 145 11 274 7 400-1v14H0z" fill="#07101f" opacity=".9"/>
   <path d="M0 254h1200" stroke="#d4af37" stroke-width="2" opacity=".75"/>
 </svg>
