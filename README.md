@@ -82,7 +82,7 @@ class AtufaKhan:
   </tr>
   <tr>
     <td><b>ML Predictions</b></td>
-    <td>House pricing, cancer detection, stress analysis, commodity forecasting, and reliability analytics.</td>
+    <td>House pricing, cancer detection, stress analysis, commodity forecasting, and reliability analytics</td>
   </tr>
   <tr>
     <td><b>Computer Vision</b></td>
