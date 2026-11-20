@@ -122,6 +122,6 @@ class AtufaKhan:
 
 
 
-<sub>✦ 🐈‍⬛ thanks for stopping by ⋆｡˚ ✦</sub>
+
 
 </div>
