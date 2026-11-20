@@ -120,19 +120,7 @@ class AtufaKhan:
 
 <p align="center"><img src="./assets/cat-divider.svg" width="100%" alt="cat divider" /></p>
 
-### 🐾 Connect
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/atufa-khan-b79b6b2ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=050505" />
-</a>
-&nbsp;
-<a href="https://github.com/atufa-khan">
-  <img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=050505" />
-</a>
-
-<br/><br/>
 
 <sub>✦ 🐈‍⬛ thanks for stopping by ⋆｡˚ ✦</sub>
 
