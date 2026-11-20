@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="40" viewBox="0 0 840 40">
+  <defs>
+    <path id="spark" d="M0-6Q0 0 6 0Q0 0 0 6Q0 0-6 0Q0 0 0-6Z"/>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B08D57" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#B08D57"/>
+      <stop offset="1" stop-color="#B08D57" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="40" y="31" width="760" height="1.5" fill="url(#line)"/>
+
+  <use href="#spark" transform="translate(300 20) scale(.7)" fill="#FFD6E8"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></use>
+  <use href="#spark" transform="translate(350 12) scale(.5)" fill="#B08D57"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></use>
+  <use href="#spark" transform="translate(490 12) scale(.5)" fill="#B08D57"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" begin=".5s" repeatCount="indefinite"/></use>
+  <use href="#spark" transform="translate(540 20) scale(.7)" fill="#FFD6E8"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></use>
+
+  <!-- tiny cat -->
+  <g transform="translate(420 32) scale(.4)">
+    <g>
+      <path d="M15-4C32-4 36-20 28-30" fill="none" stroke="#B08D57" stroke-width="8" stroke-linecap="round"/>
+      <path d="M15-4C32-4 36-20 28-30" fill="none" stroke="#050505" stroke-width="5" stroke-linecap="round"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 15 -4;14 15 -4;0 15 -4" dur="2.4s" repeatCount="indefinite"/>
+    </g>
+    <path d="M-18 0C-22-20-16-36-9-40C-14-44-15-52-13-58L-14-70L-6-62C-2-63 2-63 6-62L14-70L13-58C15-52 14-44 9-40C16-36 22-20 18 0Z" fill="#050505" stroke="#B08D57" stroke-width="2.5" stroke-linejoin="round"/>
+    <ellipse cx="-5" cy="-52" rx="2.6" ry="3" fill="#FFD6E8"><animate attributeName="ry" values="3;3;.4;3" keyTimes="0;.9;.95;1" dur="4s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="5" cy="-52" rx="2.6" ry="3" fill="#FFD6E8"><animate attributeName="ry" values="3;3;.4;3" keyTimes="0;.9;.95;1" dur="4s" repeatCount="indefinite"/></ellipse>
+  </g>
+</svg>
