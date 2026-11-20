@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=FFD6E8&center=true&vCenter=true&width=720&lines=AI+%2B+ML+with+sharp+dark-mode+energy;Python%2C+notebooks%2C+RAG%2C+NLP%2C+and+data+stories;Flutter%2C+Dart%2C+LiveKit%2C+and+product+analytics;Building+models%2C+cleaning+chaos%2C+shipping+confidence" alt="Typing SVG" />
 
+<br/>
+
+<img src="./assets/cat-stars-banner.svg" width="100%" alt="black cats and stars" />
+
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=050505)](https://www.linkedin.com/in/atufa-khan-b79b6b2ab/)
@@ -12,9 +16,9 @@
 
 </div>
 
----
+<p align="center"><img src="./assets/cat-divider.svg" width="100%" alt="cat divider" /></p>
 
-### About Me
+### 🐈‍⬛ About Me ✨
 
 ```python
 class AtufaKhan:
@@ -39,9 +43,9 @@ class AtufaKhan:
 
 <br clear="right"/>
 
----
+<p align="center"><img src="./assets/cat-divider.svg" width="100%" alt="cat divider" /></p>
 
-### 🧠 Languages & Tools
+### 🧠 Languages & Tools ⭐
 
 <p>
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
@@ -71,9 +75,9 @@ class AtufaKhan:
   <img height="44" src="https://cdn.simpleicons.org/mixpanel/D4AF37" alt="Mixpanel" />
 </p>
 
----
+<p align="center"><img src="./assets/cat-divider.svg" width="100%" alt="cat divider" /></p>
 
-### Featured Direction
+### 🌙 Featured Direction
 
 <table>
   <tr>
@@ -98,9 +102,9 @@ class AtufaKhan:
   </tr>
 </table>
 
----
+<p align="center"><img src="./assets/cat-divider.svg" width="100%" alt="cat divider" /></p>
 
-### GitHub Stats
+### ✨ GitHub Stats
 
 <div align="center">
 
@@ -114,9 +118,9 @@ class AtufaKhan:
 
 </div>
 
----
+<p align="center"><img src="./assets/cat-divider.svg" width="100%" alt="cat divider" /></p>
 
-### Connect
+### 🐾 Connect
 
 <div align="center">
 
@@ -129,5 +133,7 @@ class AtufaKhan:
 </a>
 
 <br/><br/>
-.
+
+<sub>✦ 🐈‍⬛ thanks for stopping by ⋆｡˚ ✦</sub>
+
 </div>
