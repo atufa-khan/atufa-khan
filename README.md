@@ -55,8 +55,13 @@ class AtufaKhan:
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" />
-  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" />
+  <img height="46" src="https://cdn.simpleicons.org/nextdotjs/D4AF37" alt="Next.js" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" />
+  <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" />
+  <img height="46" src="https://cdn.simpleicons.org/flask/D4AF37" alt="Flask" />
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
   <img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
@@ -67,10 +72,20 @@ class AtufaKhan:
   <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" />
   <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" />
   <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" />
   <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" />
-  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" />
   <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" />
-  <img height="44" src="https://cdn.simpleicons.org/openai/D4AF37" alt="OpenAI" />
+</p>
+
+<p>
+  <img height="44" src="https://cdn.simpleicons.org/langchain/D4AF37" alt="LangChain" />
+  <img height="44" src="https://cdn.simpleicons.org/ollama/D4AF37" alt="Ollama" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Hugging Face" />
+  <img height="44" src="https://cdn.simpleicons.org/spacy/D4AF37" alt="spaCy" />
+  <img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" />
+  <img height="44" src="https://cdn.simpleicons.org/gradio/D4AF37" alt="Gradio" />
   <img height="44" src="https://cdn.simpleicons.org/livekit/8CC7FF" alt="LiveKit" />
   <img height="44" src="https://cdn.simpleicons.org/mixpanel/D4AF37" alt="Mixpanel" />
 </p>
